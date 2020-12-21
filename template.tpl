@@ -119,7 +119,6 @@ if (data.client_id) fields.push('client_id');
 if (data.session_id) fields.push('session_id');
 if (data.gclid) fields.push('gclid');
 fields = fields.concat(customFields);
-require('logToConsole')(fields);
 
 // Recursion to get each field in turn and finally push into dataLayer
 const gtagGet = () => {
