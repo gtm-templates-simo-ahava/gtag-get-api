@@ -1,0 +1,7 @@
+homepage: "https://www.simoahava.com/"
+documentation: "https://www.simoahava.com/custom-templates/gtag-get-api/"
+versions:
+  # Latest version
+  - sha: 7398c7e88bf8836289ba77c2986c989b39f22b65
+    changeNotes: Initial release.
+  # Older versions
