@@ -2,6 +2,8 @@ homepage: "https://www.simoahava.com/"
 documentation: "https://www.simoahava.com/custom-templates/gtag-get-api/"
 versions:
   # Latest version
+  - sha: a5eec65e51679e6cc7db1b3dea8bae5ab4b2492e
+    changeNotes: Remove console logging
+  # Older versions
   - sha: 7398c7e88bf8836289ba77c2986c989b39f22b65
     changeNotes: Initial release.
-  # Older versions
