@@ -14,8 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "GTAG GET API",
-  "categories": ["ANALYTICS", "UTILITY"],
-  "__wm": "VGVtcGxhdGUtQXV0aG9yX0d0YWdHZXRBcGktU2ltby1BaGF2YQ==",
+  "categories": [
+    "ANALYTICS",
+    "UTILITY"
+  ],
+  "__wm": "VGVtcGxhdGUtQXV0aG9yX0d0YWdHZXRBcGktU2ltby1BaGF2YQ\u003d\u003d",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -242,24 +245,6 @@ ___WEB_PERMISSIONS___
     },
     "clientAnnotations": {
       "isEditedByUser": true
-    },
-    "isRequired": true
-  },
-  {
-    "instance": {
-      "key": {
-        "publicId": "logging",
-        "versionId": "1"
-      },
-      "param": [
-        {
-          "key": "environments",
-          "value": {
-            "type": 1,
-            "string": "debug"
-          }
-        }
-      ]
     },
     "isRequired": true
   }
